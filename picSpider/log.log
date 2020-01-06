@@ -1,0 +1,40 @@
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-008.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-008.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-007.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-007.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-006.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-006.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-005.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-005.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-004.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-004.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-003.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-003.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-002.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-002.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-001.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou-001.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201907/09/xinbagou.jpg', 'name': '辛巴狗神经语录卡通桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-012.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-012.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-011.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-011.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-010.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-010.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-009.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-009.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-008.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-008.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-007.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-007.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-006.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-006.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-005.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-005.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-004.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-004.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-003.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-003.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
+2019-11-09 16:48:40 [picSpider.spiders.pic] WARNING: parse:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-002.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080'}
+2019-11-09 16:48:40 [picSpider.pipelines] WARNING: PicspiderPipeline1:{'url': 'http://img.ivsky.com/img/bizhi/t/201906/14/gougou-002.jpg', 'name': '可爱呆萌的狗狗桌面壁纸 1920x1080', 'hello': 'world'}
