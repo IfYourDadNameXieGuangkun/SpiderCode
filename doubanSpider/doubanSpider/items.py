@@ -21,5 +21,6 @@ class DoubanspiderItem(scrapy.Item):
     time = scrapy.Field()#时间
     country = scrapy.Field()#国家
     content = scrapy.Field()#内容/剧情
+    detail_url = scrapy.Field()#详细内容地址
 
 
